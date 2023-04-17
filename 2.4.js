@@ -1,7 +1,4 @@
-let table2 = [];
-let table1 = [];
-let table3 = [];
-let table4 = [];
+let table1 = [0];
 for (let i = 1; i <= 100; i++) {
   if (i % 2 === 0) {
     table1.push(i / 2);
